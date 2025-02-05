@@ -20,8 +20,8 @@ The project involved creating PowerShell scripts to automate the provisioning, m
 <h2>Program walk-through:</h2>
 
 <p align="center">
-step <br/>
-<img src="https://" height="80%" width="80%" alt=""/>
+VirtualBox VM Setup <br/>
+<img src="https://imgur.com/ionRqbx" height="80%" width="80%" alt=""/>
 <br />
 <br />
 step  <br/>
