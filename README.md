@@ -1,6 +1,5 @@
-# ActiveDirectoryAutomation
+# Active Directory Automation
 
- ### [YouTube Demonstration](https://)
 
 <h2>Description</h2>
 The project involved creating PowerShell scripts to automate the provisioning, maintenance, and deprovisioning of user accounts in Active Directory on Windows Server. The project also included configuring Remote Access Server (RAS) features to support NAT/PAT, implementing Windows DNS and DHCP services, and setting up Windows File Servers with quotas and NTFS permissions. The environment was set up using Oracle VirtualBox to simulate and test the configurations.
